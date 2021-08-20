@@ -1,10 +1,10 @@
-package com.chibik.perf.latency.collections.list;
+package com.xaa4eb.perf.latency.collections.list;
 
-import com.chibik.perf.BenchmarkRunner;
-import com.chibik.perf.util.IndexedLatencyBenchmark;
-import com.chibik.perf.util.MemUtil;
-import com.chibik.perf.util.Padder;
-import com.chibik.perf.util.SingleShotBenchmark;
+import com.xaa4eb.perf.BenchmarkRunner;
+import com.xaa4eb.perf.util.IndexedLatencyBenchmark;
+import com.xaa4eb.perf.util.MemUtil;
+import com.xaa4eb.perf.util.Padder;
+import com.xaa4eb.perf.util.SingleShotBenchmark;
 import it.unimi.dsi.fastutil.ints.IntArrayList;
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;

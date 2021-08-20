@@ -1,4 +1,4 @@
-package com.chibik.perf.util;
+package com.xaa4eb.perf.util;
 
 import java.util.concurrent.ThreadLocalRandom;
 

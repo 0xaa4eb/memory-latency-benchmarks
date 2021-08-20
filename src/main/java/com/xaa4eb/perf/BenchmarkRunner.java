@@ -1,6 +1,7 @@
-package com.chibik.perf;
+package com.xaa4eb.perf;
 
 import com.chibik.perf.util.*;
+import com.xaa4eb.perf.util.*;
 import org.apache.commons.lang3.SystemUtils;
 import org.openjdk.jmh.annotations.Mode;
 import org.openjdk.jmh.infra.BenchmarkParams;

@@ -1,7 +1,8 @@
-package com.chibik.perf.latency.cpu;
+package com.xaa4eb.perf.latency.cpu;
 
-import com.chibik.perf.BenchmarkRunner;
+import com.xaa4eb.perf.BenchmarkRunner;
 import com.chibik.perf.util.*;
+import com.xaa4eb.perf.util.*;
 import org.openjdk.jmh.annotations.*;
 
 import java.util.concurrent.ThreadLocalRandom;

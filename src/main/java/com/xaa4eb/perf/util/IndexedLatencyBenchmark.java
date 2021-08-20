@@ -1,4 +1,4 @@
-package com.chibik.perf.util;
+package com.xaa4eb.perf.util;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;

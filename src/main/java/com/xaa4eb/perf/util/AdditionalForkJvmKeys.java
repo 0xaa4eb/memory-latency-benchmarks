@@ -1,4 +1,4 @@
-package com.chibik.perf.util;
+package com.xaa4eb.perf.util;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

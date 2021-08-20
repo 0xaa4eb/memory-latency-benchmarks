@@ -1,7 +1,11 @@
-package com.chibik.perf.latency.cpu;
+package com.xaa4eb.perf.latency.cpu;
 
-import com.chibik.perf.BenchmarkRunner;
+import com.xaa4eb.perf.BenchmarkRunner;
 import com.chibik.perf.util.*;
+import com.xaa4eb.perf.util.IndexedLatencyBenchmark;
+import com.xaa4eb.perf.util.MemUtil;
+import com.xaa4eb.perf.util.Padder;
+import com.xaa4eb.perf.util.SingleShotBenchmark;
 import org.openjdk.jmh.annotations.*;
 
 /**
